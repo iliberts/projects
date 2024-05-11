@@ -1,6 +1,7 @@
 # projects
 ## Darījumi ar zemes īpašumiem Latvijas teritorijā
 https://github.com/iliberts/projects/blob/main/VZD_darijumi_geo.ipynb
+<br>
 Atlasot vairākkārt pārdotus zemes īpašumus, noskaidroju kuriem no tiem bija lielākas cenu izmaiņas.
 <br>
 Atspoguļoju Latvijas kartē pagastus, kuros tika pārdotas visvairāk hektāru zemes
