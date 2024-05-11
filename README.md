@@ -8,6 +8,7 @@ Atspoguļoju Latvijas kartē pagastus, kuros tika pārdotas visvairāk hektāru 
 
 ## Datu tīrīšana
 [SNP_celi_un_ielas.ipynb](https://github.com/iliberts/projects/blob/main/SNP_celi_un_ielas.ipynb)
+<br>
 Kārtoju Siguldas novada pašvaldības ceļu un ielu sarakstu
 
 
