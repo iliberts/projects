@@ -6,8 +6,9 @@ Atlasot vairākkārt pārdotus zemes īpašumus, noskaidroju kuriem no tiem bija
 <br>
 Atspoguļoju Latvijas kartē pagastus, kuros tika pārdotas visvairāk hektāru zemes
 
-
-
+## Datu tīrīšana
+[SNP_celi_un_ielas.ipynb](https://github.com/iliberts/projects/blob/main/SNP_celi_un_ielas.ipynb)
+Kārtoju Siguldas novada pašvaldības ceļu un ielu sarakstu
 
 
 ## Offset for overlapping bus routes
