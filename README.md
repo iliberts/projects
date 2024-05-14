@@ -1,5 +1,5 @@
 # projects
-## Darījumi ar zemes īpašumiem Latvijas teritorijā
+## Darījumi ar zemes īpašumiem
 [VZD_darijumi_geo.ipynb](https://github.com/iliberts/projects/blob/main/VZD_darijumi_geo.ipynb)
 <br>
 Atlasot vairākkārt pārdotus zemes īpašumus, noskaidroju kuriem no tiem bija lielākas cenu izmaiņas.
