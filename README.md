@@ -12,7 +12,7 @@ Atspoguļoju Latvijas kartē pagastus, kuros tika pārdotas visvairāk hektāru 
 Kārtoju Siguldas novada pašvaldības ceļu un ielu sarakstu
 
 
-## Offset for overlapping bus routes
+## Offset for overlapping bus routes [in English]
 [Bus_Routes_GeoJSON.ipynb](https://github.com/iliberts/projects/blob/main/Bus_Routes_GeoJSON.ipynb)
 <br>
 When making a route map, one of the visual challenges is displaying overlapping route sections. I walk through the process of creating a Leaflet map of bus routes with offset overlapping portions, all without altering the actual routes. Demo: https://map.sigulda.lv/routes.html
