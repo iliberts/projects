@@ -13,5 +13,5 @@ Kārtoju Siguldas novada pašvaldības ceļu un ielu sarakstu
 
 
 ## School bus routes in Sigulda Municipality
-Available realtime tracking during service hours:
+Available real-time tracking during service hours:
 https://marsruti-sigulda.vercel.app/ 
