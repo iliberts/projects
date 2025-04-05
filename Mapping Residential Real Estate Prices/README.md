@@ -18,7 +18,7 @@ This project analyses and visualises the average prices of flats and houses acro
      - [House Prices](https://iliberts.github.io/projects/Mapping%20Residential%20Real%20Estate%20Prices/Sigulda_Municipality_House_Prices_2024_Heatmap.html)
 
 
-# Data used:
+## Data used:
 - Real estate transactions https://data.gov.lv/dati/lv/dataset/nekustama-ipasuma-tirgus-datu-bazes-atvertie-dati
 - Latvia's regional borders https://data.gov.lv/dati/lv/dataset/varis-atvertie-dati
 - Cadastral data: https://data.gov.lv/dati/lv/dataset/kadastra-informacijas-sistemas-atverti-telpiskie-dati
