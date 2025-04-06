@@ -1,6 +1,6 @@
 # Offset overlapping routes
 
-This web application provides an interactive map visualisation of bus routes with a focus on resolving the challenge of route overlaps. A common issue when displaying a route network map is that overlapping bus routes often obscure one another, making it difficult to distinguish individual lines. This app addresses that by dynamically splitting routes into segments based on where overlaps occur and offsetting only those overlapping segments. Notably, this is achieved 'on the fly' without altering the original route geometries (polylines), ensuring data integrity while greatly improving map clarity and usability.
+This web app explores a practical solution to a common issue in visualising a route network map: overlapping routes often obscure one another, making it difficult to distinguish individual lines. The app proposes a method to address that by dynamically splitting routes into segments based on where overlaps occur and offsetting only those overlapping segments. This is done 'on the fly', without altering the original route geometries (polylines), improving map readability while keeping the underlying data intact.
 
 Developed in TypeScript using React and React-Leaflet with PolylineOffset.
 
